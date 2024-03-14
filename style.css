@@ -186,6 +186,8 @@ footer p {
 
 #course-reflections, #learning-journey, #introduction, #showcased-works, #conclusion, #skills-competencies, #reflective-essays {
     padding: 0px 5%;
+    padding-top: 120px;
+
 }
 
 #introduction {
@@ -222,6 +224,7 @@ footer p {
   }
   .slide-img {
     width: 80%;
+    min-width: 80%;
     max-height: 90vh;
     border-radius: 15px;
   }
